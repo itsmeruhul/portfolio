@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 #fh5co-features .services-padding {
-  padding: 7em 0;
+  padding: 2em 0;
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
@@ -286,7 +286,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
-  padding: 7em 0;
+  padding: 2em 0;
+ padding-bottom: 2em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -298,7 +299,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-blog,
   #fh5co-pricing,
   #fh5co-contact {
-    padding: 3em 0;
+    padding: 1em 0;
   }
 }
 
@@ -906,6 +907,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-consult {
+  padding-left: 28%;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -978,6 +980,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
+  text-align: center;
   padding: 50px 0;
   float: left;
   width: 100%;
